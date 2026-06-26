@@ -28,8 +28,6 @@ Research Experience
 
 Publications
 ======
-(\* denotes equal contribution)
-
 - **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond." 2025. [GitHub](https://github.com/MiniMaxAI/SynLogic)
 
 - **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. "On the Perception Bottleneck of VLMs for Chart Understanding." 2025. [GitHub](https://github.com/Vicent0205/Vision4Chart)
